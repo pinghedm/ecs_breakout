@@ -1,0 +1,27 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x o o o o o o o o x o o o o o o o x
+x                                 x
+x   xxx   xxxxx   x   xxxxx   xxx x
+x o xxx o xxxxx o o o xxxxx o xxx x
+x   o o   o o o   x   o o o   o o x
+x o xxx o x o xxxxxxxxx o x o xxx x
+x   o o   x o o o x o o o x   o o x
+x                                 x
+xxxxxxx o xxxxx   x   xxxxx o xxxxx
+xxxxxxx   x o o o o o o o x   xxxxx
+xxxxxxx o x   xxx   xxx   x o xxxxx
+xxxxxxx   x   x   P   x   x   xxxxx
+              x       x            
+              x       x            
+xxxxxxx o x o xxxxxxxxx o x o xxxxx
+      x   x       G       x   x    
+      x o x               x o x    
+xxxxxxx   x   xxxxxxxxx   x   xxxxx
+x o o o o o o o o x o o o o o o o x
+x   xxx   xxxx    x  xxxx  xxx    x
+x o o x o o o o o o o o o o o x o x
+xxx   x   x o xxxxxxxxx o x   x   x
+x o o o o x o o o x o o o x o o o x
+xx xxxxxxxxxxx    x   xxxxxxxxx  xx
+x o o o o o o o o o o o o o o o o x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
